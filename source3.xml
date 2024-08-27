@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <person>
+      <name>kathe</name>
+      <height>154.4</height>
+      <weight>47.9</weight>
+   </person>
+   <person>
+      <name>andre</name>
+      <height>175.6</height>
+      <weight>82.4</weight>
+   </person>
+   <person>
+      <name>mery</name>
+      <height>168.5</height>
+      <weight>62.4</weight>
+   </person>
+   <person>
+      <name>thessa</name>
+      <height>157.4</height>
+      <weight>54.9</weight>
+   </person>
+</data>

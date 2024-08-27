@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <person>
+      <name>kelly</name>
+      <height>164.9</height>
+      <weight>70.4</weight>
+   </person>
+   <person>
+      <name>frank</name>
+      <height>186.4</height>
+      <weight>92.4</weight>
+   </person>
+   <person>
+      <name>cindy</name>
+      <height>158.6</height>
+      <weight>57.1</weight>
+   </person>
+   <person>
+      <name>ivan</name>
+      <height>174.5</height>
+      <weight>76.4</weight>
+   </person>
+</data>

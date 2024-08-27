@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <person>
+      <name>simon</name>
+      <height>167.9</height>
+      <weight>74.5</weight>
+   </person>
+   <person>
+      <name>grace</name>
+      <height>167.8</height>
+      <weight>64.7</weight>
+   </person>
+   <person>
+      <name>dea</name>
+      <height>162.4</height>
+      <weight>58.4</weight>
+   </person>
+   <person>
+      <name>ioann</name>
+      <height>182.1</height>
+      <weight>79.6</weight>
+   </person>
+</data>
